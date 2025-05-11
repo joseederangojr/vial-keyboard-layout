@@ -17,7 +17,7 @@ Keys out of order:
 
 
 ### Keymap Drawer
-Draw your yaml layout using: [https://keymap-drawer.streamlit.app/](Keymap Drawer)
+Draw your yaml layout using: [Keymap Drawer](https://keymap-drawer.streamlit.app/)
 
 ![Fifi MX](./fifi-mx-layout.png)
 
